@@ -7,3 +7,5 @@ se realizan varios ejemplos de card con sus propiedades
 ## color de la tarjeta
 ![imagen](https://github.com/user-attachments/assets/28e8ebde-12e7-41f4-bf15-28ee35db5a9f)
 
+## color de la tarjeta y texto
+![imagen](https://github.com/user-attachments/assets/8dc1a8a1-caad-4dc3-9e2c-62da23aae664)
