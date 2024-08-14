@@ -17,5 +17,6 @@ se realizan varios ejemplos de card con sus propiedades
 ![imagen](https://github.com/user-attachments/assets/9327fa7d-1f3a-4922-8e7d-0f0b6462673b)
 
 ## tarjeta con tarjeta adentro
-![imagen](https://github.com/user-attachments/assets/94a337aa-4e93-4a43-89d3-0f14636838df)
+![imagen](https://github.com/user-attachments/assets/614f0cd5-f320-409a-86f2-b871374987af)
+
 
