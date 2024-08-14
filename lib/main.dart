@@ -85,7 +85,7 @@ class _PaginaInicioState extends State<PaginaInicio> {
                       children: [
                         Center(
                           child: Text(
-                            'Flutter is Cool',
+                            'Rodriguez is Cool',
                             style: TextStyle(
                                 color: Color(0xff993fff), fontSize: 30),
                           ),
@@ -102,67 +102,5 @@ class _PaginaInicioState extends State<PaginaInicio> {
         ),
       ),
     );
-    /*return Scaffold(
-      appBar: AppBar(
-        title: const Text("Ejemplo de Tarjetas"),
-        actions: const [Icon(Icons.search), Icon(Icons.more_vert)],
-        backgroundColor: Color(0xffd8bfff),
-        shape: const StadiumBorder(),
-      ),
-      body: Center(
-        child: Container(
-          height: 300,
-          width: 300,
-          child: Card(
-            shape: RoundedRectangleBorder(
-              side: BorderSide.merge(
-                  BorderSide(
-                      width: 1.5,
-                      color: Color(0xffc263ff),
-                      style: BorderStyle.solid),
-                  BorderSide(
-                      width: 1.5,
-                      color: Color(0xffc263ff),
-                      style: BorderStyle.solid)),
-              borderRadius: BorderRadius.circular(20),
-            ),
-            color: const Color(0xffd5fff6),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.center,
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Text(
-                  'Flutter is Cool',
-                  style:
-                      const TextStyle(color: Color(0xffc263ff), fontSize: 30),
-                ),
-                const SizedBox(height: 20),
-                Container(height: 100, width: 100, child: const FlutterLogo()),
-              ],
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-}
-class PaginaInicio extends StatelessWidget {
-  final String title;
-  const PaginaInicio({super.key, required this.title});  
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        // The title text which will be shown on the action bar
-        title: Text(title),
-      ),
-      body: Center(
-        child: Text(
-          'Hello, World!',
-        ),
-      ),
-    );
-    */
   }
 }
